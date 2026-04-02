@@ -1,2 +1,2 @@
-# aida64-updates
-aida64 frissitesek
+# updates
+frissitesek
